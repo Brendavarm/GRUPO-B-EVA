@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 1a13fa0ccc0c50d49a68ed39de4bef4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7654300198700000000
+    second: Bart_Quieto
+  - first:
+      213: -7654300198700000001
+    second: Bart_Paso_01
+  - first:
+      213: -7654300198700000002
+    second: Bart_Paso_02
+  - first:
+      213: -7654300198700000003
+    second: Bart_Paso_03
+  - first:
+      213: -7654300198700000004
+    second: Bart_Paso_04
+  - first:
+      213: -7654300198700000005
+    second: Bart_Paso_05
+  - first:
+      213: -7654300198700000006
+    second: Bart_Paso_06
+  - first:
+      213: -7654300198700000007
+    second: Bart_Paso_07
+  - first:
+      213: -7654300198700000008
+    second: Bart_Paso_08
+  - first:
+      213: -7654300198700000009
+    second: Bart_Salto
+  - first:
+      213: -7654300198700000010
+    second: Bart_Golpe
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 52
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bart_Quieto
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 904
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88073e0d1267448099cada671b90b992
+      internalID: -7654300198700000000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bart_Paso_01
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 707
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfcff55dc0c4c7eb759f2a91ecc1775
+      internalID: -7654300198700000001
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bart_Paso_02
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 707
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6327db0a77475493b00ef0e578b9bd
+      internalID: -7654300198700000002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bart_Paso_03
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 708
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e8249ffddf43eab0d98ec57ab37b82
+      internalID: -7654300198700000003
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bart_Paso_04
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 707
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9e0a5f4414410c90fea06176036dc0
+      internalID: -7654300198700000004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bart_Paso_05
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 706
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1695b1e1644f9b9540ba21aea2c807
+      internalID: -7654300198700000005
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bart_Paso_06
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 706
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a6a77eed7c475290542053774c6e1e
+      internalID: -7654300198700000006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bart_Paso_07
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 706
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae379455822483a9b16c8973e50537a
+      internalID: -7654300198700000007
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bart_Paso_08
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 706
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341c4c7c0e8947acab3132332edac636
+      internalID: -7654300198700000008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bart_Salto
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 520
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d3b8cae01e4c58a9b2d45c143709ea
+      internalID: -7654300198700000009
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bart_Golpe
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 155
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData:
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d25d1cdbee244bdad253c654a58077f
+      internalID: -7654300198700000010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bart_Quieto: -7654300198700000000
+      Bart_Paso_01: -7654300198700000001
+      Bart_Paso_02: -7654300198700000002
+      Bart_Paso_03: -7654300198700000003
+      Bart_Paso_04: -7654300198700000004
+      Bart_Paso_05: -7654300198700000005
+      Bart_Paso_06: -7654300198700000006
+      Bart_Paso_07: -7654300198700000007
+      Bart_Paso_08: -7654300198700000008
+      Bart_Salto: -7654300198700000009
+      Bart_Golpe: -7654300198700000010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: Bart magenta
+  assetBundleName: 
+  assetBundleVariant: 
